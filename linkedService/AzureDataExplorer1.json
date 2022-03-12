@@ -1,0 +1,7 @@
+{
+	"name": "AzureDataExplorer1",
+	"properties": {
+		"type": "AzureDataExplorer",
+		"annotations": []
+	}
+}
