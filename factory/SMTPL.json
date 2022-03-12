@@ -1,0 +1,9 @@
+{
+	"name": "SMTPL",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03358335-1745-4371-87e2-9a588cd8ab50",
+		"tenantId": "ce75363a-3bb6-44e1-a34d-045f7a73b660"
+	}
+}
