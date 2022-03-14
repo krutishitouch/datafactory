@@ -7,9 +7,9 @@
 		"typeProperties": {
 			"endpoint": "https://smtplcluster.eastus.kusto.windows.net",
 			"tenant": "ce75363a-3bb6-44e1-a34d-045f7a73b660",
-			"servicePrincipalId": "24f0b71f-9792-4a8d-a489-1dd23efdf600",
+			"servicePrincipalId": "934fe47d-c15e-43f0-8cfc-59576c84c891",
 			"database": "SmartMeter",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEZDNTA2M0JELTUzN0UtNDVENS04MzhGLTRFOEMwMURBQTAzNl9mYjY3ZDEzZi1kMTdjLTQxNzItYTM0YS05ODI4Yjk5MjA2ZTIiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEZDNTA2M0JELTUzN0UtNDVENS04MzhGLTRFOEMwMURBQTAzNl8zYjk3Mzc1OS1mMGE4LTRhNjctYjY1Mi0xZjdhNjUyM2M3NWUiDQp9"
 		}
 	}
 }
